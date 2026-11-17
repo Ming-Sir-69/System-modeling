@@ -1,4 +1,4 @@
-# Personal documentation license · ✦ EricMingle69
+# Personal documentation license · <picture><source media="(prefers-color-scheme: dark)" srcset="em-logo-dark.svg"><img src="em-logo-light.svg" alt="EM" height="12"></picture> EricMingle69
 
 ## Scope / 适用范围
 
@@ -37,3 +37,5 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
+
+Signature assets / 署名素材：`readme-assets/em-logo-light.svg`, `readme-assets/em-logo-dark.svg`.

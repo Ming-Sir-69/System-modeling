@@ -103,5 +103,5 @@
 
 ---
 
-文档维护：**✦ EricMingle69** · [Ming-Sir-69](https://github.com/Ming-Sir-69)  
+文档维护：<picture><source media="(prefers-color-scheme: dark)" srcset="readme-assets/em-logo-dark.svg"><img src="readme-assets/em-logo-light.svg" alt="EM" height="13"></picture> <b>EricMingle69</b> · <a href="https://github.com/Ming-Sir-69">Ming-Sir-69</a><br>
 许可：[新增原创文档与门面素材采用 MIT](readme-assets/PERSONAL-DOCUMENTATION-LICENSE.md)；原模型、报告及第三方资料按各自来源确认权限。
